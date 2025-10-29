@@ -7,3 +7,4 @@ System.out.println(a +"X" + b + "=" + a*b);
 }}}
 Table tb =new Table();
 System.out.println(tb.b);
+System.out.println(tb.a);
