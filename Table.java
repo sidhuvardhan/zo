@@ -6,4 +6,4 @@ for (a=1; a<=20; a++){
 System.out.println(a +"X" + b + "=" + a*b);
 }}}
 Table tb =new Table();
-System.out.println(tb.b);
+System.out.println("helllo guru");
